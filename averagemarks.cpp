@@ -3,9 +3,10 @@ using namespace std;
 
 int main(){
     
-    int physics = 80;
-    int chem = 65;
-    int math = 77;
+    int physics, chem, math;
+    cin >> physics;
+    cin >> chem; 
+    cin >> math;
 
     float avg = (physics + chem + math)/3;
 
