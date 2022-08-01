@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-    
+    cout<<"enter the marks for physics, chem, math";
     int physics, chem, math;
     cin >> physics;
     cin >> chem; 
